@@ -1,0 +1,9 @@
+.p-home {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  .p-home-container {
+    position: relative;
+    flex: 1;
+  }
+}
